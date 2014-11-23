@@ -1,4 +1,6 @@
-pmdg737-fuelplanner
+PMDG 737 NGX Fuel Planner
 ===================
 
-Quick simple tool for PMDG 737 NGX fuel planning.
+This simple, quick tool will quickly have you planning fuel for your flight on the PMDG 737 NGX!
+
+IMPORTANT NOTE! THIS TOOL IS ABSOLUTELY NOT BE USED FOR REAL WORLD PLANNING! FAILURE TO COMPLY WITH THIS STATEMENT WILL RESULT IN THE DELETION OF THIS REPOSITORY.
